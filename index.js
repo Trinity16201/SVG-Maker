@@ -17,7 +17,18 @@ const questions = [
     {
         type: 'checkbox',
         message: 'What shape would you like to use? Use the space key to select your choice.',
-        name: 'Letters',
+        name: 'Shape',
         choices:['Circle', 'Square', 'Triangle']
         },
+
+        {
+            type:'input',
+            message: 'What color would you like your text to be? Hexadecimals are accepted.',
+            name:'Text'
+        },
+        {
+            type:'input',
+            message: 'What color would you like your shape to be? Hexadecimals are accepted.',
+            name:'ColorS',
+        }
 ]
