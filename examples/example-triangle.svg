@@ -2,4 +2,5 @@
 
 <polygon points="225,10 100,210 350,210" style="fill:rgba(0,0,0,0);stroke:pink;stroke-width:10" />
 
+<text x="180" y="155" font-size="50" text-anchors="left" fill="BLACK">SRL</text>
 </svg>
